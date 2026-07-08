@@ -1,0 +1,6 @@
+{
+  "name": "NB TV: YouSEO & Prompt Karo",
+  "description": "WebView app with AdMob for NB TV: YouSEO & Prompt Karo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

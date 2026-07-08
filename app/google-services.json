@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "474999317287",
+    "firebase_url": "https://traffic-exchange-62a58-default-rtdb.firebaseio.com",
+    "project_id": "traffic-exchange-62a58",
+    "storage_bucket": "traffic-exchange-62a58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474999317287:android:23cfd011e51a4ca9ce3f02",
+        "android_client_info": {
+          "package_name": "com.edu.my"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJBi3pMuV2BcpbEy8ZCx4-CYFRC3JJ2DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
